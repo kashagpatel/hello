@@ -1,0 +1,45 @@
+.pics{
+	position: relative;
+	padding-top: 50px;
+	width: 88%;
+}
+
+.tab{
+	position: relative;
+}
+
+.table{
+	width: 100%;
+	padding-top: 260px;
+}
+
+.comp{
+	position: absolute;
+	top: 114px;
+	left: 120px; 
+}
+
+.computer{
+	width: 60%;
+}
+
+.pen{
+	position: absolute;
+	left: 820px;
+	bottom: 234px;
+}
+
+.pencil{
+	width: 40%;
+}
+
+.mic{
+	position: absolute;
+	left: 1000px;
+	bottom: 0px;
+}
+
+.microphone{
+	
+	
+}
