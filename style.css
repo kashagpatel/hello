@@ -1,3 +1,11 @@
+.topnav{
+    background-color; white;
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    padding-top: 6px;
+}
+
 .pics{
 	position: relative;
 	padding-top: 50px;
